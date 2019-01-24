@@ -2,7 +2,7 @@
 // You can test it in Dr. Java or in repl.it
 // If you get stuck, Google is your friend
 
-class Main {
+class HellowWorld {
   public static void main(String[] args) {
     System.out.print("Hello, world!");
     // Put your code here that prints out "Hello, world!"
